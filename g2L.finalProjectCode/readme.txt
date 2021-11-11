@@ -10,23 +10,10 @@ Our program currently works and displays some of the main functions of our appli
 
 Group Members and Contributions
 
-Umut Divarcı: 22002116
-Coded the classes Account, Doctor, Pharmacy and Medicine.
-Implemented and designed the GUI pages including , combined code pieces, worked on main functions.
+Alphan EKER
+Umut Divarcı
 
-Arda Yıldız: 22003093
-Coded the classes Employee and Hospital.
-Worked on Vaccination, HospitalDetails and Employee pages.
-
-Faaiz Khan : 22001476
-Coded the class MedicalRecord.
-Worked on dietary and exercise plan pages.
-Alphan Eker: 22003245
-Coded the class Patient.
-Worked on Hospital Details and Appointment System.
-
-Code Organization and Development Details
-Our code contains classes that implement different account types and their relevant functions. Also, our related GUI pages are contained under the package pages. We also used JRE Java System Library. For coding classes, we’ve mostly used VS Code (version 1.55). For GUI design, we’ve used Eclipse IDE 2021-23 and its Window Builder add-on. However we haven’t used databases, instead we’ve used class parameters to inherit relevant data for each page and class. 
+Our code contains classes that implement different account types and their relevant functions. Also, our related GUI pages are contained under the package pages. We also used JRE Java System Library. For coding classes, we’ve mostly used VS Code (version 1.55). For GUI design, we’ve used Eclipse IDE 2021-23 and its Window Builder add-on.
 
 INSTRUCTIONS
 ----------------------------------------------------------------------
