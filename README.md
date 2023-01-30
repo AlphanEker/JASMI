@@ -8,7 +8,7 @@ JASMI is a patient management system for medical institutions and patients, in w
 * JASMI is not currently connected to a database but a simple SQL database will solve the problem
 
 ## Functionalities
-To start JASMI, first run LogInPage.java under the package Pages.
+**To start JASMI, first run LogInPage.java under the package Pages.
 Then, Log in page will be displayed to user.
 
 * To Log in as a PATIENT account and use patient main page:
@@ -23,7 +23,7 @@ Then, Log in page will be displayed to user.
 	USERNAME = pharmacy
 	PASSWORD = 12345
 	*NOTE: These are preadded users for test purposes
-** You can exit the frame with default close operation. Then, you can run LogIn.java again to log in with a different account.
+**You can exit the frame with default close operation. Then, you can run LogIn.java again to log in with a different account.
 
 All three different account types have their unique menus and functions.
 
