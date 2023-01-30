@@ -28,7 +28,7 @@ Then, Log in page will be displayed to user.
 All three different account types have their unique menus and functions.
 
 ## About (Technical)
-	JASMI contains classes that implement different account types and their relevant functions. Also, JASMI's related GUI pages are contained under the package pages. Also JRE Java System Library is used. For the development of classes, JASMI mostly uses VS Code (version 1.55). For GUI design JASMI Eclipse IDE 2021-23 and its Window Builder add-on is heavily used with custom changes on the auto generated code.
+JASMI contains classes that implement different account types and their relevant functions. Also, JASMI's related GUI pages are contained under the package pages. Also JRE Java System Library is used. For the development of classes, JASMI mostly uses VS Code (version 1.55). For GUI design JASMI Eclipse IDE 2021-23 and its Window Builder add-on is heavily used with custom changes on the auto generated code.
 	
-	JASMI is purely written on Java.
+JASMI is purely written on Java!
 
