@@ -8,7 +8,7 @@ JASMI is a patient management system for medical institutions and patients, in w
 * JASMI is not currently connected to a database but a simple SQL database will solve the problem
 
 ## Functionalities
-**To start JASMI, first run LogInPage.java under the package Pages.
+* **To start JASMI, first run LogInPage.java under the package Pages.
 Then, Log in page will be displayed to user.
 
 * To Log in as a PATIENT account and use patient main page:
